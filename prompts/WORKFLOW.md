@@ -14,13 +14,13 @@ Replace bracketed fields with your own decisions. Treat an agent's plausible cla
 
 ## 3 — BOM and implementation brief
 
-- [3a: Populate the BOM](3a_populate_bom.md) — Fill in the BOM template, marking unverified parts as TBD.
+- [3a: Populate the BOM](3a_populate_bom.md) — Write the BOM, marking unverified parts as TBD.
 - [3b: Coding-agent brief](3b_coding_agent_brief.md) — Turn the decisions into a brief for the coding agent.
 
-## 4 — Codex project and bounded tools
+## 4 — Generate the CAD project
 
 - [4a: Generate CAD](4a_generate_cad.md) — Generate the FreeCAD model and Blender visualization scripts.
-- [4b: Expose parameters](4b_expose_parameters.md) — Expose safe numeric parameters through the tool wrapper.
+- [4b: Expose parameters](4b_expose_parameters.md) — Move a few numeric parameters into a file you can change and rerun.
 
 ## 5 — Run, inspect, change one thing
 
