@@ -1,0 +1,1 @@
+Package my project so another participant can reproduce it. Include source, parameters, BOM, decision record, application versions, exports, assembly views, trace, slicer project, and unresolved items. Clearly distinguish what was executed from what is planned. Do not publish or send it anywhere.

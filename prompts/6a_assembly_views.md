@@ -1,0 +1,1 @@
+Create assembled and exploded views using the exported CAD geometry, with components labeled and an intelligible assembly order. Preserve scale and distinguish conceptual electronics envelopes from manufactured parts. Save a reusable Blender scene and two PNGs; GLB is optional. Use a low-cost render setting suitable for a workshop laptop.

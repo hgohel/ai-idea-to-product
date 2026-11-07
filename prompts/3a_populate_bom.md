@@ -1,0 +1,1 @@
+Using my selected concept and evidence, populate the BOM template. Give exact part identity where verified; otherwise mark TBD. Include quantities, fit-relevant dimensions, source, status, and what is still missing. Separate parts needed for an enclosure fit study from parts needed for a functional player. Do not invent prices, vendor availability, or electrical compatibility.

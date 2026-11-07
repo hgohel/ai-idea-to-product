@@ -1,0 +1,1 @@
+My choice is [direction]. Preserve [essential feature]. Simplify [detail] so I can experience the entire workflow in this session. List the few measurements that would most change the design. Record unresolved measurements as provisional.

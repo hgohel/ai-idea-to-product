@@ -1,0 +1,1 @@
+Expose a few safe numeric design parameters through the provided tool wrapper. Keep executable paths and measured interfaces in human-owned configuration. Explain which script I am reviewing and which outputs it will write. Show a valid tool request and one rejected out-of-range request. Do not weaken validation to make a request pass.

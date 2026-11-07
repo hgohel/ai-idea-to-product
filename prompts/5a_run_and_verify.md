@@ -1,0 +1,1 @@
+Run the reviewed build. Report what actually happened, with file paths and trace evidence. Reopen the exported STEP/STL files and verify dimensions, solid/mesh validity where supported, and separate printable parts. If it fails, use the real error; do not invent an output.

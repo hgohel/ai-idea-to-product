@@ -1,0 +1,1 @@
+Now critique the assembly. Check insertion paths, tool access, fasteners, battery retention, cable bends, connector access, board component keepouts, touch-screen edges, and serviceability. Use geometric checks where available. State what the simplified models cannot prove. Suggest the smallest correction for the highest-priority issue.

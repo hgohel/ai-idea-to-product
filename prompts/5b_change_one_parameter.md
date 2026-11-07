@@ -1,0 +1,1 @@
+Change [one parameter] from [A] to [B]. Explain the expected effect before regenerating. Compare the outputs and show that the measured electronics interfaces are preserved. Record the decision and the new run.

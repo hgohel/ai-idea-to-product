@@ -1,0 +1,3 @@
+I want to create a touch-first MP3 player around an ESP32 and CYD 2.8 display. Help me develop the idea. Ask me one question about the intended user and use case, then propose three distinct product directions. For each, show or describe its shape, interaction, visual style, likely electronics arrangement, and an important tradeoff. Keep the concepts at comparable scale and angle. Label internal dimensions and hardware details that are speculative. Do not produce CAD yet.
+
+Possible style vocabulary: restrained minimal, playful/kawaii, cyberpunk, retro-industrial. Participants choose their own; no style is mandatory.

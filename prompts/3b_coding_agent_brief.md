@@ -1,0 +1,1 @@
+Turn these decisions into a coding-agent brief. Define coordinates and units, authoritative dimensions, exposed parameters, assemblies, expected outputs, and acceptance checks. Keep electronic reference envelopes separate from printable parts. Identify which changes require a new measurement rather than a cosmetic guess.
