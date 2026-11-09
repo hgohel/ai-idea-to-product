@@ -32,7 +32,11 @@ Install the Apple Silicon or Intel builds of [FreeCAD](https://www.freecad.org/d
 
 ### Windows
 
-Install [FreeCAD](https://www.freecad.org/downloads.php), [Blender](https://www.blender.org/download/), and [Python 3.10+](https://www.python.org/downloads/) from their official sites. Use `py -3` wherever this kit says `python3`. Note where `FreeCADCmd.exe` and `blender.exe` were installed.
+Install [FreeCAD](https://www.freecad.org/downloads.php), [Blender](https://www.blender.org/download/), and [Python 3.10+](https://www.python.org/downloads/) from their official sites or use the [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) command below. Use `py -3` wherever this kit says `python3`. Note where `FreeCADCmd.exe` and `blender.exe` were installed.
+
+```powershell
+winget install Python.Python.3.14 FreeCAD.FreeCAD BlenderFoundation.Blender
+```
 
 ### Slicer (all platforms)
 
